@@ -1,7 +1,7 @@
 # CanolaGermProject
 
 ## Author
-Arthur Fritzke
+Arthur Fritzke <br />
 Agriculture & AgriFood Canada (AAFC)
 
 ## Description
